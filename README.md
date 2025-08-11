@@ -14,6 +14,8 @@ The goal is to **increase domestic MBA applications by addressing the awareness 
 
 ### 3. Analysis Framework — Minto Pyramid Principle  
 
+![MBA Case Study Banner](https://github.com/ihsura-hub/gies-domestic-mba-analysis/blob/e143576a620dbf21b93bb16d00886c699965cf98/Increasing%20Domestic%20MBA%20Applications%20Strategy.png)
+
 #### Objective  
 Increase domestic MBA applications by improving awareness and understanding of domestic students' research behaviors and decision factors.
 
